@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel Angel</h1>
-<h3 align="center">A passionate frontend developer from Mexico city</h3>
+<h3 align="center">A passionate full stack developer from Mexico city</h3>
 
 - 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT,VUEX**
 
