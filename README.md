@@ -1,5 +1,5 @@
 <div align="right">
-<img src="https://c.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" align="right" style="width: 100%" />
+<img src="https://c.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" align="left" width="500" height="480">
 </div>  
   
 
